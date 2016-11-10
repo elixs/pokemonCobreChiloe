@@ -1,0 +1,144 @@
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Cedolan City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 3 (31) - Ingido Plateau (35)
+31,West,0,35,East,10
+# Ingido Plateau (35) - Route 4 (39)
+35,West,11,39,East,0
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Lappet Town (2) - Safari Zone (66)
+2,West,0,66,East,0
+# Safari Zone (66) - Route 1 (5)
+66,North,18,5,South,0
+# Route 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Route 5 (41) - Route 4 (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 (45)
+41,South,6,45,North,0
+# Castro (78) - Chonchi (82)
+78,South,0,82,North,35
+# Arboles 2 (84) - Chonchi (82)
+84,South,0,82,North,0
+# Quilquico (80) - Chonchi (82)
+80,South,0,82,North,75
+# Cementerio (81) - Chonchi (82)
+81,West,0,82,East,0
+# Lago Huillinco (87) - Chonchi (82)
+87,East,7,82,West,0
+# Quellon (102) - Caleuche (132)
+102,East,0,132,West,6
+# Agua 2 (100) - Ruta 2 (22)
+100,South,0,22,North,73
+# Agua 3 (101) - Ruta 2 (22)
+101,West,0,22,East,0
+# Quellon (102) - Ruta 2 (22)
+102,North,6,22,South,0
+# Nada (86) - Ruta 2 (22)
+86,South,0,22,North,22
+# Cementerio (81) - Ruta 2 (22)
+81,South,23,22,North,0
+# Arboles 3 (85) - Chacao (77)
+85,East,0,77,West,59
+# Ruta1 (76) - Chacao (77)
+76,North,0,77,South,0
+# Cucao (89) - Lago Cucao (88)
+89,East,14,88,West,0
+# Lago Huillinco (87) - Lago Cucao (88)
+87,West,0,88,East,9
+# Castro (78) - Arboles (83)
+78,North,0,83,South,12
+# Arboles 2 (84) - Arboles (83)
+84,North,23,83,South,0
+# Ruta 1.2 (79) - Arboles (83)
+79,West,0,83,East,0
+# Arboles 3 (85) - Arboles (83)
+85,South,0,83,North,20
+# Quilquico (80) - Arboles (83)
+80,North,0,83,South,52
+# Ruta Surf (42) - Arboles (83)
+42,North,0,83,South,103
+# Ruta1 (76) - Arboles (83)
+76,South,0,83,North,41
+# Agua 3 (101) - Agua 2 (100)
+101,North,27,100,South,0
+# Quilquico (80) - Agua 2 (100)
+80,East,40,100,West,0
+# Ruta Surf (42) - Agua 2 (100)
+42,South,0,100,North,0
+# Nada (86) - Agua 2 (100)
+86,East,5,100,West,0
+# Achao (32) - Agua 2 (100)
+32,South,0,100,North,24
+# Arboles 2 (84) - Castro (78)
+84,East,0,78,West,0
+# Ruta 1.2 (79) - Castro (78)
+79,South,0,78,North,22
+# Quilquico (80) - Castro (78)
+80,West,0,78,East,0
+# Nada (86) - Castro (78)
+86,West,0,78,East,35
+# Cementerio (81) - Castro (78)
+81,North,5,78,South,0
+# Agua (43) - Castro (78)
+43,South,0,78,North,67
+# Ruta 1.2 (79) - Arboles 2 (84)
+79,South,0,84,North,57
+# Nada (86) - Arboles 2 (84)
+86,North,0,84,South,75
+# Cementerio (81) - Arboles 2 (84)
+81,North,0,84,South,30
+# Agua (43) - Arboles 2 (84)
+43,South,0,84,North,102
+# Lago Huillinco (87) - Arboles 2 (84)
+87,East,0,84,West,28
+# Nada (86) - Agua 3 (101)
+86,South,24,101,North,0
+# Cementerio (81) - Agua 3 (101)
+81,South,69,101,North,0
+# Arboles 3 (85) - Ruta 1.2 (79)
+85,South,14,79,North,0
+# Quilquico (80) - Ruta 1.2 (79)
+80,North,0,79,South,18
+# Ruta Surf (42) - Ruta 1.2 (79)
+42,North,0,79,South,69
+# Ruta1 (76) - Ruta 1.2 (79)
+76,South,0,79,North,7
+# Agua (43) - Ruta 1.2 (79)
+43,West,0,79,East,0
+# Ruta1 (76) - Arboles 3 (85)
+76,West,19,85,East,0
+# Agua (43) - Arboles 3 (85)
+43,North,0,85,South,59
+# Ruta Surf (42) - Quilquico (80)
+42,West,0,80,East,0
+# Nada (86) - Quilquico (80)
+86,North,0,80,South,0
+# Cementerio (81) - Quilquico (80)
+81,North,45,80,South,0
+# Agua (43) - Quilquico (80)
+43,South,0,80,North,27
+# Nada (86) - Ruta Surf (42)
+86,East,0,42,West,35
+# Achao (32) - Ruta Surf (42)
+32,West,10,42,East,0
+# Agua (43) - Ruta Surf (42)
+43,South,24,42,North,0
+# Cementerio (81) - Nada (86)
+81,East,0,86,West,0
+# Agua (43) - Ruta1 (76)
+43,North,0,76,South,38
+# Agua (43) - Achao (32)
+43,East,15,32,West,0
