@@ -409,8 +409,14 @@ ShowArea=false
 Bicycle=true
 Outdoor=true
 ShowArea=true
+[113]
+# Quellon Poké Center
+HealingSpot=102,32,14
 [114]
 # Lab
+[123]
+# Chonchi Poké Center
+HealingSpot=82,15,17
 [132]
 # Caleuche
 Outdoor=true
