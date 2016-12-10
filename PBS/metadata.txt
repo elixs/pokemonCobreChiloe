@@ -85,7 +85,7 @@ MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
 [022]
-# Ruta 2
+# Ruta 5 Sur
 Bicycle=true
 Outdoor=true
 ShowArea=true
@@ -319,7 +319,7 @@ MapPosition=0,12,10
 MapPosition=1,13,16
 Outdoor=true
 [076]
-# Ruta1
+# Ruta 5
 Bicycle=true
 Outdoor=true
 ShowArea=true
@@ -334,7 +334,7 @@ Bicycle=true
 Outdoor=true
 ShowArea=true
 [079]
-# Ruta 1.2
+# Ruta Verde
 Bicycle=true
 Outdoor=true
 ShowArea=true

@@ -103,7 +103,7 @@ SPINARAK,9,12
 SPINARAK,9,12
 SPINARAK,9,12
 #########################
-022 # Ruta 2
+022 # Ruta 5 Sur
 25,10,10
 Land
 BULBASAUR,5
@@ -485,7 +485,7 @@ PATRAT,11,14
 PATRAT,11,14
 PATRAT,11,14
 #########################
-076 # Ruta1
+076 # Ruta 5
 25,10,10
 Land
 RATTATA,11,14
@@ -501,7 +501,7 @@ PIDGEY,11,13
 RATTATA,14
 PIDGEY,14
 #########################
-079 # Ruta 1.2
+079 # Ruta Verde
 25,10,10
 Land
 BULBASAUR,5
